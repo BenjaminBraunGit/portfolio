@@ -1,2 +1,2 @@
 # portfolio
-A repo for notable academic and personal projects
+A repository for notable academic and personal projects.
